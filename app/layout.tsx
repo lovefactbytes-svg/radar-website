@@ -8,8 +8,8 @@ const cinzel = Cinzel({ subsets: ["latin"], variable: "--font-cinzel" })
 const geist = Geist({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Your Band - Pirate Metal",
-  description: "Official website of Your Band - Pirate Metal from the Seven Seas",
+  title: "R.A.D.A.R",
+  description: "Bilet Satın Al",
   generator: "v0.app",
 }
 

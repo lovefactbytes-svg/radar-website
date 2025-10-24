@@ -18,7 +18,7 @@ export function TourDates() {
               <div>
                 <p className="text-lg md:text-xl font-bold text-primary mb-1">ULSA Öğrenci İndirimi</p>
                 <p className="text-sm md:text-base text-foreground">
-                  Bilet alırken <span className="font-bold text-primary">"Öğrenci"</span> seçeneğini seçip ID kartı
+                  Bilet alırken <span className="font-bold text-primary">"Öğrenci"</span> seçeneğini seçip Beavercard
                   görseli yollayanlara <span className="font-bold text-primary">%50 indirim!</span>
                 </p>
               </div>
